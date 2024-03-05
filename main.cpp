@@ -63,7 +63,7 @@ int main() {
 
   // Part 2: Stack Operations
   // Display header for the Stack operations
-  std::cout << "Question #2\n" << std::endl;
+  std::cout << "Question # 2\n" << std::endl;
   std::cout << "------------------\n" << std::endl;
 
   // Create a stack object
