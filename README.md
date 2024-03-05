@@ -18,3 +18,7 @@ Pops an element from the stack.
 Displays the stack after the pop operation.
 Gets the top element of the stack.
 Calculates the average value of the stack elements and displays it.
+
+Output: 
+
+<img width="933" alt="Screenshot 2024-03-04 at 11 32 32 PM" src="https://github.com/Fardowsa2/Assignment2/assets/110959975/c7ebb64c-1633-4e7c-82fb-38c99ae417ff">
